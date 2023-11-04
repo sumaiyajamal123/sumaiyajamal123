@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/></h1>
+<h1>Hi, I'm Sumaiya Jamal</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
